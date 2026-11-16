@@ -1,0 +1,12 @@
+[
+  {
+    "id": "supplier-a",
+    "baseUrl": "https://api.supplier-a.example",
+    "apiKey": "test-key-a"
+  },
+  {
+    "id": "supplier-b",
+    "baseUrl": "https://api.supplier-b.example/v1",
+    "apiKey": "test-key-b"
+  }
+]
